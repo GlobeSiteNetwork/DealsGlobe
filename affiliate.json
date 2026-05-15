@@ -1,0 +1,14 @@
+{
+  "affiliate_campaigns": [
+    {
+      "merchant": "Amazon",
+      "url": "https://amzn.to/4d9iytD",
+      "tracking_id": "4d9iytD",
+      "status": "active",
+      "category": "Retail",
+      "parameters": {
+        "tag": "4d9iytD"
+      }
+    }
+  ]
+}
