@@ -1,0 +1,38 @@
+# DealsGlobe – Global Amazon Deals Hub
+> Curated Amazon deals auto-routed to local stores in 10 countries. US, UK, Canada, Germany, France, Spain, Italy, Netherlands, Poland and Sweden.
+
+## About
+DealsGlobe is a global Amazon affiliate deals hub. We detect visitors' countries and automatically connect them to their local Amazon store — amazon.com, amazon.co.uk, amazon.ca, amazon.de, amazon.fr, amazon.es, amazon.it, amazon.nl, amazon.pl, amazon.se. All links use affiliate tag brightlane201-20. Commissions earned via Amazon Associates program.
+
+## Pages
+- [Home](https://globesitenetwork.github.io/DealsGlobe/) — Main deals hub, 16 categories, 12 top products, geo-routing
+- [Under-Desk Treadmills](https://globesitenetwork.github.io/DealsGlobe/under-desk-treadmill-amazon.html) — Best walking pads on Amazon 2026
+- [Heated Blankets UK](https://globesitenetwork.github.io/DealsGlobe/best-heated-blanket-amazon.html) — Best electric heated blankets Amazon UK 2026
+- [Portable Power Stations](https://globesitenetwork.github.io/DealsGlobe/portable-power-station-amazon.html) — Best portable power stations for camping and outages
+- [Air Quality Monitors Canada](https://globesitenetwork.github.io/DealsGlobe/air-quality-monitor-amazon.html) — Best air quality monitors Amazon Canada 2026
+- [Ergonomic Office Chairs](https://globesitenetwork.github.io/DealsGlobe/best-ergonomic-office-chair-amazon.html) — Best ergonomic chairs on Amazon 2026
+- [Smart Home Devices UK](https://globesitenetwork.github.io/DealsGlobe/smart-home-devices-amazon-uk.html) — Best smart home devices Amazon UK 2026
+- [Car Phone Mounts](https://globesitenetwork.github.io/DealsGlobe/best-car-phone-mount-amazon.html) — Best MagSafe and universal car phone mounts 2026
+- [Sleep Aids](https://globesitenetwork.github.io/DealsGlobe/best-sleep-aids-amazon.html) — Best sleep aids on Amazon 2026
+
+## Topics Covered
+- Amazon deals and discounts up to 70% off
+- Electronics — Echo, Fire TV, Kindle, earbuds, smart watches
+- Home & Kitchen — Air fryers, coffee makers, LED lights, robot vacuums
+- Health & Wellness — Sleep aids, weighted blankets, air quality monitors
+- Sports & Fitness — Resistance bands, yoga mats, under-desk treadmills
+- Smart Home — Alexa devices, smart plugs, Ring doorbells, smart thermostats
+- Automotive — Car phone mounts, MagSafe mounts
+- Office — Ergonomic chairs, portable power stations
+- Geo-targeted content for US, UK, Canada, Germany, France, Spain, Italy, Netherlands, Poland, Sweden
+
+## Network
+Part of the Global Deals Network:
+- DealsGlobe: https://globesitenetwork.github.io/DealsGlobe/
+- ShoppingOnline: https://brightlane.github.io/shopppingonline/
+- AliDeals: https://brightlane.github.io/ShopAliexpressOnline/
+- DealBlast: https://brightlane.github.io/aliexpress.com/
+- AliExpress Deals: https://brightlane.github.io/aliexpress/
+
+## Affiliate Disclosure
+DealsGlobe is a participant in the Amazon Associates Programme. We earn commissions when users purchase through our links at no additional cost to the buyer. Amazon Associate tag: brightlane201-20.
