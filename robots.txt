@@ -1,0 +1,5 @@
+
+User-agent: *
+Allow: /
+
+Sitemap: https://globesitenetwork.github.io/Maxlend/sitemap.xml
